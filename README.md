@@ -2,3 +2,10 @@
 Задание 1. Проект Vehicle. 
 * Написать тесты с использованием JUnit5
 [Решение](https://github.com/LightlanaDr/Unittests/tree/e96bae6ad439f604fd0f434a49f36bf0e63b7418/src/test/java/sem2/home_work)
+
+## Урок 3. Качество тестов
+*Задание 1.
+Напишите тесты, покрывающие на 100% метод evenOddNumber, который проверяет, является ли переданное число четным или нечетным. (код приложен в презентации)
+Задание 2.
+Разработайте и протестируйте метод numberInInterval, который проверяет, попадает ли переданное число в интервал (25;100). (код приложен в презентации)
+[Решение](https://github.com/LightlanaDr/Unittests/tree/e96bae6ad439f604fd0f434a49f36bf0e63b7418/src/test/java/sem2/home_work)
