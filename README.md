@@ -8,4 +8,4 @@
 Напишите тесты, покрывающие на 100% метод evenOddNumber, который проверяет, является ли переданное число четным или нечетным. (код приложен в презентации)
 Задание 2.
 Разработайте и протестируйте метод numberInInterval, который проверяет, попадает ли переданное число в интервал (25;100). (код приложен в презентации)
-[Решение](https://github.com/LightlanaDr/Unittests/tree/e96bae6ad439f604fd0f434a49f36bf0e63b7418/src/test/java/sem2/home_work)
+[Решение](https://github.com/LightlanaDr/Unittests/tree/83c6c8f5e86a1d1b6b5c259a57f535bd5ec4489a/src/test/java/sem3/homework)
